@@ -31,6 +31,7 @@ https://docs.monai.io/en/stable/_modules/monai/networks/nets/densenet.html
 3 Boyutlu Brats kodunda kullanılan dataset:
 
 https://arxiv.org/abs/2106.05735
+
 https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2
 
 Araştırarak bulduğum datasetler:
