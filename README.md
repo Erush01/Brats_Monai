@@ -34,6 +34,8 @@ https://arxiv.org/abs/2106.05735
 
 https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2
 
+http://medicaldecathlon.com
+
 Araştırarak bulduğum datasetler:
 
 OASİS Brains : https://www.oasis-brains.org/#data
