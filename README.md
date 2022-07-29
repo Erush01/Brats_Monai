@@ -1,6 +1,6 @@
 # Brats_Monai
 
-MONAI 2d_classificaiton tutorial:
+MONAI 2d_classification tutorial:
 
 https://github.com/Project-MONAI/tutorials/blob/main/2d_classification/mednist_tutorial.ipynb
 
